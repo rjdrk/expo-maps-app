@@ -19,7 +19,7 @@
       "package": "com.rjdrk.mapsapp",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAnsShR1T0QwGSsFb0dYMxF7YHLv1CYZrU"
+          "apiKey": "API-KEY-GOOGLE-MAPS"
         }
       }
     },
