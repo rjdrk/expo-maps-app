@@ -15,6 +15,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.rjdrk.mapsapp",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAnsShR1T0QwGSsFb0dYMxF7YHLv1CYZrU"
+        }
       }
     },
     "web": {

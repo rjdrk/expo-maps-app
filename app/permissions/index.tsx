@@ -1,7 +1,7 @@
 import { View, StyleSheet } from 'react-native'
 import React from 'react'
 import { ThemedText } from '@/presentation/components/shared/ThemedText'
-import { usePremissionsStore } from '@/presentation/store/usePermissions'
+import { usePremissionsStore } from '@/presentation/store/usePermissionsStore'
 import ThemedPressable from '@/presentation/components/shared/ThemedPressable';
 
 const PermisionsScreen = () => {

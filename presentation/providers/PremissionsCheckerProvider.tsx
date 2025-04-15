@@ -5,7 +5,7 @@ import { router } from 'expo-router';
 import PermisionsScreen from '@/app/permissions';
 import { PermissionStatus } from '@/infrastructure/interfaces/location';
 
-import { usePremissionsStore } from '../store/usePermissions'
+import { usePremissionsStore } from '../store/usePermissionsStore'
 
 const PremissionsCheckerProvider = ({ children }: PropsWithChildren) => {
     const { locationStatus, checkLocationPermission } = usePremissionsStore();
